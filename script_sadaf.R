@@ -1,7 +1,6 @@
 
-#!/usr/bin/Rscript --vanilla
-chmod +x script_sadaf.R
-./script_sadaf.R
+#!/usr/bin/env Rscript
+
 
 name <- "Sadaf Raza"
 email <- "sadafraza48@gmail.com"
