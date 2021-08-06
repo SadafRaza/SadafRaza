@@ -1,4 +1,4 @@
-
+#!/usr/bin/RScript
 name <- "Sadaf Raza"
 email <- "sadafraza48@gmail.com"
 biostack <- "Genomics"
