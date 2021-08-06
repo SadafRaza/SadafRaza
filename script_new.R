@@ -1,3 +1,4 @@
+#!/usr/bin/env Rscript
 #for hamming distance of slack_username between twitter_handle
 #considering stringA for slack and stringB for twitter
 stringA <- "@sadaf"
