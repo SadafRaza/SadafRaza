@@ -7,9 +7,13 @@
 - 🌱 I’m currently learning ...Statistical Computing with R and Data Visualization and Data Wrangling with Python.
 
 - Stats:
+
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=SadafRaza&count_private=true&show_icons=true&hide=contribs)
+
+<!---
 - Languages used:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SadafRaza&layout=compact)
+--->
 
 
 <!---
