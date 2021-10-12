@@ -1,5 +1,5 @@
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=SadafRaza)
-<p align="center"><img src = "https://github.com/SadafRaza/SadafRaza/blob/main/cyz.gif"></p>
+<p align="center"><img src = "https://github.com/SadafRaza/SadafRaza/blob/main/intro.gif"></p>
 
 - 👋 Hi, I’m @SadafRaza
 - I'm a final year student of M.Tech Bioinformatics.
