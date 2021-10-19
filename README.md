@@ -1,7 +1,7 @@
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=SadafRaza)
 <p align="center"><img src = "https://github.com/SadafRaza/SadafRaza/blob/main/intro.gif"></p>
 
-- 👋 Hi, I’m @SadafRaza
+- 👋 Hi, I’m Sadaf Raza.
 - I'm a final year student of M.Tech Bioinformatics.
 - 👀 I’m interested in ...Bioinformatics in the areas of Genomics and Machine Learning.
 - 🌱 I’m currently learning ...Statistical Computing with R and Data Visualization and Data Wrangling with Python.
