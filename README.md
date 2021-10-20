@@ -1,20 +1,22 @@
-<p align="center"><img src = "https://github.com/SadafRaza/SadafRaza/blob/main/intro.gif"></p>
+<p align="center"><img src = "https://github.com/SadafRaza/SadafRaza/blob/main/intro.gif" height="50%" width = "50%"></p>
 
-## Hello World! <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"></h2>
+## Hey You! <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"></h2>
 <br />
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-971901.svg?style=flat&logo=github)](https://github.com/SadafRaza)
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=SadafRaza)
 
 <a href="https://www.linkedin.com/in/sadaf-raza-2958705b/">
-  <img align="left" alt="Reeha's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Sadaf's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/SadafRaza">
-  <img align="left" alt="Reeha's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Sadaf's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://instagram.com/svdvf_/">
-  <img align="left" alt="Leah's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Sadaf's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<a href="https://twitter.com/svdvf_">
+<img align="left" alt="Sadaf's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 <br />
 
 ## Welcome to my GitHub profile! :octocat:
@@ -23,12 +25,20 @@
 <br />
 
 - :information_desk_person: I’m Sadaf, a Bioinformatician by profession!
-- I'm a final year student of M.Tech Bioinformatics.
-- 👀 I’m interested in ...Bioinformatics in the areas of Genomics and Machine Learning.
-- 🌱 I’m currently learning ...Statistical Computing with R and Data Visualization and Data Wrangling with Python.
+- I'm a final year student of M.Tech Bioinformatics at Jamia Hamdard.
+- 👀 I’m interested in Bioinformatics in the areas of Genomics and Machine Learning.
+- 🌱 I’m currently learning Statistical Computing with R and Data Visualization and Data Wrangling with Python.  I love to explore new technologies and leverage them to solve real-life problems ✨
+- ⚡ Fun fact: I am a potterhead. ⚡👓
+<br />
 <br />
 
-- ## Stats:
+![Python](https://img.shields.io/badge/python%20-%23E34F26.svg?&style=for-the-badge&logo=python&ogoColor=white)
+![R](https://img.shields.io/badge/R%20-%23E34F26.svg?&style=for-the-badge&logo=python&ogoColor=white)
+![Linux](https://img.shields.io/badge/-linux-772953?style=for-the-badge&logo=linux)
+
+<br />  
+  
+- ## Stats :chart_with_upwards_trend: 
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=SadafRaza&count_private=true&show_icons=true&hide=contribs)
 
