@@ -25,8 +25,7 @@
 <br />
 
 - :information_desk_person: I’m Sadaf, a Bioinformatician by profession!
-- I'm a final year student of M.Tech Bioinformatics at Jamia Hamdard.
-- 👀 I’m interested in Bioinformatics in the areas of Genomics and Machine Learning.
+- 👀 I’m interested in the areas of Genomics and Machine Learning.
 - 🌱 I’m currently learning Statistical Computing with R and Data Visualization and Data Wrangling with Python.  I love to explore new technologies and leverage them to solve real-life problems ✨
 - ⚡ Fun fact: I am a potterhead. ⚡👓
 <br />
