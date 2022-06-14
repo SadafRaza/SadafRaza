@@ -1,4 +1,4 @@
-<p align="center"><img src = "https://github.com/SadafRaza/SadafRaza/blob/main/intro.gif" height="50%" width = "50%"></p>
+<p align="center"><img src = "https://github.com/SadafRaza/SadafRaza/blob/main/intro.gif" height="60%" width = "60%"></p>
 
 ## Hey You! 
 <!---
