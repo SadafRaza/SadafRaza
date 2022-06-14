@@ -1,6 +1,6 @@
 <p align="center"><img src = "https://github.com/SadafRaza/SadafRaza/blob/main/intro.gif" height="50%" width = "50%"></p>
 
-## Hey You! <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"></h2>
+## Hey You! <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="10px"></h2>
 <br />
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-971901.svg?style=flat&logo=github)](https://github.com/SadafRaza)
